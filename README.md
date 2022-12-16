@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/14uqyQcSaAmT3J1a_VhKlICtm5Istajmj?usp=sha
 - Acustica (file non esistente)
 - [Aria e pressione](aria_pressione.docx)
 - Astrofisica (file non esistente)
-- Bolle di sapone (nel [mega-pdf](esperimenti.pdf))
+- Bolle di sapone (nel [mega-pdf](esperimenti.pdf) e [qui](sapone.pdf))
 - Elettromagnetismo (sia nel [mega-pdf](esperimenti.pdf) che [qui](elettromagnetismo.docx))
 - [Elettronica](elettronica/elettronica.pdf)
 - Fiamme (nel [mega-pdf](esperimenti.pdf) e [qui](fiamme.docx))

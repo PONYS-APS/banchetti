@@ -26,3 +26,4 @@ https://drive.google.com/drive/folders/14uqyQcSaAmT3J1a_VhKlICtm5Istajmj?usp=sha
 - Non esiste la scheda del banchetto di acustica
 - Non esiste la scheda del banchetto di astrofisica
 - Disfarsi del [mega-pdf](esperimenti.pdf) e mettere ogni scheda nel suo file separatamente; unire i file con criterio se necessario
+- Manca la scheda di Physica in Fabula

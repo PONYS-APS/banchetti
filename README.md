@@ -33,4 +33,5 @@ I contenuti di Physica in Fabula si trovano nella cartella [PiF](PiF)
 - Non esiste la scheda del banchetto di acustica
 - Non esiste la scheda del banchetto di astrofisica
 - Disfarsi del [mega-pdf](esperimenti.pdf) e mettere ogni scheda nel suo file separatamente; unire i file con criterio se necessario
-- Riorganizzare le schede di Physica in Fabula
+- Mettere ordine tra le schede di Physica in Fabula, collegare le storie agli
+  esperimenti, migliorare alcune schede

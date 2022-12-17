@@ -1,0 +1,87 @@
+#+title: Aladdin
+
+* Visualizzazione video
+Secondo voi è possibile che un tappeto voli? Come fa a volare ? Possiamo
+costruire un tappeto volante ?
+
+Prima di rispondere a queste domande è utile introdurre alcuni concetti
+fondamentali.
+
+* Esperimento 1 - L'aria occupa uno spazio?
+Introduciamo un fazzoletto o un giornale appallottolato in un bicchiere vuoto, e
+assicurarsi che ques'ultimo non cadrà quando capovolgeremo il bicchiere.
+
+Riempiamo d'acqua un contenitore. Tenendo il bicchiere con la bocca in giù,
+tuffiamolo nel recipiente pieno d'acqua e teniamolo per qualche minuto. Dopo un
+po' di tempo togliamo il bicchiere dall'acqua e tiriamo fuori il fazzoletto.
+Scopriremo che il fazzoletto è asciutto.
+
+** SPIEGAZIONE
+L'acqua non può riempire il bicchiere perché quest'ultimo è già pieno d'aria.
+L'aria quindi occupa uno spazio; è un gas (miscuglio di gas) e non ha una forma
+propria e quindi occupa tutti gli spazi che trova.
+
+* ESPERIMENTO 2 - L'aria rallenta la caduta degli oggetti
+Prendiamo due pezzi di giornale, e riduciamone uno in una pallina.
+
+Lasciamoli cadere contemporaneamente. Osserveremo che la carta appallottolata
+cadrà diritta a terra mentre il foglio piatto fluttuerà nell'aria e scenderà più
+lentamente.
+
+** SPIEGAZIONE
+L'aria oppone una resistenza al movimento delle cose. Più è larga la superficie
+su cui l'aria preme e più difficile è per un corpo muoversi nell'aria. Il foglio
+di carta piatto, simile a un'ala, ha una superficie maggiore di quella della
+palla di carta. Le automobili, i treni e gli aerei hanno forme aerodinamiche
+allo scopo di ridurre l'entità della superficie che si muove attraverso l'aria e
+far diminuire in tal modo la resistenza di questa.
+
+* ESPERIMENTO 3 - Pallina su phon
+Accendiamo il phon a mezza forza e teniamolo fermo con il getto di aria rivolto
+verso l'alto.
+
+Prendiamo la pallina e la poggiamo delicatamente nel mezzo del flusso di aria
+sopra il phon.
+
+La pallina si metterà in una posizione di equilibrio, più in alto o più in basso
+del punto in cui l'abbiamo lasciata, e ci rimarrà stabilmente.
+
+** SPIEGAZIONE
+La pallina resta in equilibrio per due motivi: il primo è semplicemente la forza
+generata dal flusso di aria diretta verso l'alto.
+
+Il flusso di aria è più forte all'uscita del phon e diminuisce di intensità man
+mano che ci si allontana dalla bocca del phon. Ci sarà un punto in cui la forza
+esercitata dal flusso di aria sarà uguale alla forza di gravità che si esercita
+sulla pallina.
+
+In questa posizione la pallina potrà restare in equilibrio. Tuttavia questo
+potrebbe essere un punto di equilibrio instabile, per spostamenti laterali.
+
+Invece, si può vedere che se diamo delle piccole botte alla pallina, questa si
+sposta dalla posizione di equilibrio, ma tende poi a ritornare verso il centro
+del getto di aria, rimanendo sempre in equilibrio. Questo vuol dire che c'è un
+secondo effetto che mantiene la pallina in posizione: si tratta dell'effetto
+combinato del principio di Bernoullì e dell'effetto Coanda. Quello che succede è
+che l'aria che esce dal phon crea una specie di guscio intorno alla pallina
+dandogli un ulteriore supporto. Possiamo accorgerci di questo effetto anche
+spostando il getto d’aria del phon dalla posizione verticale, inclinandolo
+lateralmente.
+
+Si può vedere come, per angoli non troppo grandi, la pallina continua a restare
+sospesa nel mezzo del getto d'aria, anche se ora si trova fuori dalla verticale
+innalzata dalla bocca del phon.
+
+* Conclusioni
+Con l'ultimo esperimento abbiamo visto come un oggetto possa restare in
+equilibrio in aria. Un procedimento simile viene usato per far volare gli aerei.
+Ora secondo voi un tappeto può volare? Può restare in equilibrio a mezz'aria? In
+realtà NO! Non solo per la sua forma poco adatta ma anche perché come il foglio
+di giornale che fluttua nell'aria quest'ultimo prima o poi cadrà a terra.
+
+Possiamo provare a costruire un tappeto volante? Teoricamente si… ma
+praticamente non sono ancora riusciti a farlo per molti motivi legati al
+materiale, alla grandezza ecc.
+
+Per cui se volete provare a far volare un tappeto… prendetene uno sedetevi
+sopra e con la forza dell'immaginazione volate!

@@ -1,8 +1,11 @@
 # Banchetti dei PONYS
 Schede tecniche dei banchetti. Il file esperimenti.pdf è particolare; al suo interno ci sono altri file PDF corrispondenti ad alcuni titoli di riga rossi. Non tutti i lettori PDF supportano questa funzione; alcuni mostrano questi documenti premendo su tali scritte, altri hanno una sezione allegati.
 
-Esiste un archivio dell'associazione su Google Drive al link:
+Esiste un archivio dei banchetti dell'associazione su Google Drive al link:
 https://drive.google.com/drive/folders/14uqyQcSaAmT3J1a_VhKlICtm5Istajmj?usp=sharing
+
+Esiste un archivio dei percorsi di Physica in Fabula su Google Drive al link:
+https://drive.google.com/drive/folders/1xDA_cFlbZ-tpE5TWzoAj7nsR7h5Ze6QI?usp=sharing
 
 ## Elenco dei banchetti
 - Acustica (file non esistente)
@@ -22,8 +25,11 @@ https://drive.google.com/drive/folders/14uqyQcSaAmT3J1a_VhKlICtm5Istajmj?usp=sha
 - Sport (nel [mega-pdf](esperimenti.pdf) e [qui](sport.docx))
 - Termodinamica (nel [mega-pdf](esperimenti.pdf) e [qui](termodinamica.odt))
 
+## Physica in Fabula
+I contenuti di Physica in Fabula si trovano nella cartella [PiF](PiF)
+
 ## Cose da fare
 - Non esiste la scheda del banchetto di acustica
 - Non esiste la scheda del banchetto di astrofisica
 - Disfarsi del [mega-pdf](esperimenti.pdf) e mettere ogni scheda nel suo file separatamente; unire i file con criterio se necessario
-- Manca la scheda di Physica in Fabula
+- Riorganizzare le schede di Physica in Fabula
